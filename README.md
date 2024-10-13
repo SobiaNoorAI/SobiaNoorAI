@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm currently a **Data Science Mastery Program (DS
 - 🤝 **Looking to collaborate on**: Open-source data science projects and machine learning competitions
 - 🏆 **Achievements**: Completed multiple data science projects, participated in [Competitions/Challenges] on Kaggle
 - 🔭 **Research Interests**: Data Science, AI Ethics, Predictive Modeling, Generative AI
-- 📫 **How to reach me**: sobianoor087@gmail.com | [Sobia Noor](https://www.linkedin.com/in/sobianoor087/)
+- 📫 **How to reach me**: sobianoor087@gmail.com | [Sobia Noor](https://www.linkedin.com/in/sobianoorai/)
 
 ---
 
@@ -83,7 +83,7 @@ Read my blogs :
 
 ## 🌐 Let's Connect
 I enjoy connecting with fellow data enthusiasts, so feel free to reach out to me! Whether it’s to collaborate, discuss projects, or exchange knowledge, I’m always open to new connections.
-- **LinkedIn**: [Sobia Noor](https://www.linkedin.com/in/sobianoor087/)
+- **LinkedIn**: [Sobia Noor](https://www.linkedin.com/in/sobianoorai/)
 - **Email**: sobianoor087@gmail.com
 
 Thank you for visiting my profile, and I hope you find my projects insightful!

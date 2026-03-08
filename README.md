@@ -1,6 +1,6 @@
 # Hi, I'm Sobia Noor 👋
 
-Welcome to my GitHub profile! I'm currently a **Data Science Mastery Program (DSMP) Fellow** at [Data Seekho](https://dataseekho.com), where I'm developing my skills in data science, machine learning, and artificial intelligence. I am passionate about applying data-driven solutions to real-world problems and continuously expanding my knowledge in the field.
+Welcome to my GitHub profile! I'm  a **Software Engineer** with specialized in data science. I'm developing my skills in data science, machine learning, and artificial intelligence. I am passionate about applying data-driven solutions to real-world problems and continuously expanding my knowledge in the field.
 
 ---
 

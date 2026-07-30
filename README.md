@@ -18,13 +18,12 @@ Welcome to my GitHub profile! I'm  a **Software Engineer** specialized in data s
 ## 💼 My Projects
 Here are some of the key projects I’ve been working on during my learning journey in data science. Feel free to explore the code, read the documentation, and reach out if you have any questions!
 
-### 1. **[Project Name]**
-   - **Description**: Brief overview of the project and its purpose. For example:
-     "A customer segmentation project using K-Means clustering to group customers based on purchasing behavior."
-   - **Technologies Used**: Python, Pandas, Scikit-Learn, Matplotlib
+### 1. **E-commerce Customer Churn Analysi**
+   - **Description**: A customer segmentation project using K-Means clustering to group customers based on purchasing behavior.
+   - **Technologies Used**: Python, Pandas, Scikit-Learn, Matplotlib, Power BI
    - **Key Steps**: Data Cleaning, Exploratory Data Analysis (EDA), Model Training, and Evaluation
    - **Results**: Found distinct customer segments that will help drive targeted marketing strategies.
-   - 📂 [Link to Project Repository](https://github.com/yourusername/project-name)
+   - 📂 [Link to Project Repository](https://github.com/SobiaNoorAI/E-Commerce-Customer-Churn-Prediction)
 
 ### 2. **[Project Name]**
    - **Description**: A brief summary. For example:

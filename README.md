@@ -25,12 +25,11 @@ Here are some of the key projects I’ve been working on during my learning jour
    - **Results**: Found distinct customer segments that will help drive targeted marketing strategies.
    - 📂 [Link to Project Repository](https://github.com/SobiaNoorAI/E-Commerce-Customer-Churn-Prediction)
 
-### 2. **[Project Name]**
-   - **Description**: A brief summary. For example:
-     "A predictive model to forecast house prices based on key features like location, area, and amenities using Linear Regression."
-   - **Technologies Used**: Python, Pandas, NumPy, Scikit-Learn, Seaborn
+### 2. **Covid-19 ML Prediction**
+   - **Description**: A predictive framework for COVID-19 mortality based on clinical and demographic data. Addressed significant class imbalance using Random Undersampling to improve model sensitivity for identifying high-risk patients.
+   - **Technologies Used**: Python, Scikit-learn, Pandas, Matplotlib, Seaborn
    - **Key Steps**: Data Preprocessing, Feature Engineering, Model Training
-   - **Results**: Achieved a high R² score, indicating accurate predictions.
+   - **Results**: Logistic Regression achieved balanced F1-scores (Death: 0.85, Survival: 0.84) after resampling, prioritizing sensitivity over raw accuracy.
    - 📂 [Link to Project Repository](https://github.com/yourusername/project-name)
 
 ### 3. **[Project Name]**

@@ -43,7 +43,29 @@ Here are some of the key projects I’ve been working on during my learning jour
    - 📂 [Link to Project Repository](https://github.com/yourusername/project-name)
 
 ---
+## 🎤 Workshops & Training
 
+I'm passionate about sharing knowledge and have delivered the following workshops and training sessions:
+
+| Workshop | Topic | Description |
+|----------|-------|-------------|
+| **HPC Malware Detection** | Hardware Performance Counters | Workshop on using HPCs for malware detection with Python & ML (95%+ accuracy) |
+| **DSA Training** | LeetCode | Technical sessions on Data Structures & Algorithms at iCodeGuru |
+| **Web Development Training** | Full-Stack Web | Technical sessions on HTML, CSS, and PHP at iCodeGuru |
+| **IELTS Preparation** | English Proficiency | Teaching IELTS to underprivileged students at iCodeGuru |
+
+### 📺 Featured Workshop
+
+🔬 **HPC Malware Detection Workshop**
+- Hardware Performance Counters for behavioral malware detection
+- Python + Google Colab implementation
+- 95%+ ML classification accuracy
+- Research preparation for PhD
+
+📂 [GitHub Repository](https://github.com/SobiaNoorAI/hpc-malware-detection-demo)
+📺 [YouTube Workshop](https://www.youtube.com/watch?v=_vUHhbt-oew)
+
+---
 ## 📊 Skills & Tools
 Here are the technologies and tools that I use most frequently. My expertise is constantly evolving as I explore new areas of data science and machine learning.
 
@@ -68,12 +90,17 @@ I believe in continuous learning to stay up-to-date with the latest trends in da
 ---
 
 ## 🏅 Certifications & Courses
-Here’s a list of courses and certifications I’ve completed as part of my journey in data science:
-- **Data Science Mastery Program (DSMP)** - Data Seekho
-- **[Course Name]** - [Provider]
-- **[Course Name]** - [Provider]
+
+| Certification | Issuer |
+|---------------|--------|
+| Data Science Mastery Program (DSMP)| Data Seekho |       
+| Pandas | Kaggle |                       
+| How to Get Into Robotics | FutureLearn |          
+| Data Science & Analytics | HP LIFE |         
+| How to Get Into AI | FutureLearn |    
 
 ---
+
 
 ## 📝 Blog Writing
 Read my blogs :

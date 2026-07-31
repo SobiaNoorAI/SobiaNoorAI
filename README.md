@@ -41,6 +41,20 @@ Here are some of the key projects I’ve been working on during my learning jour
    - 📂 [Link to Project Repository](https://github.com/yourusername/project-name)
 
 ---
+## Hackathon Projects
+### Aegis Agent – Enterprise Multi-Agent Command Center
+Type: Full Stack | Tech: Next.js 14, React 18, TypeScript, FastAPI
+- **Description**: An enterprise-grade multi-agent workflow system for automated investment analysis and risk assessment. Orchestrates a specialized team of autonomous AI agents providing real-time transparency through a cinematic "War Room" user interface.
+
+System Architecture:
+
+- Frontend: Next.js 14, React 18, TypeScript, Framer Motion
+
+- Backend: FastAPI (Python 3.11+), WebSockets
+
+- AI Agent Layer: Planner, Analyst, Reviewer, Finalizer
+- 📂 [Link to Project Repository](https://github.com/SobiaNoorAI/Aegis-Agent)
+---
 ## 🎤 Workshops & Training
 
 I'm passionate about sharing knowledge and have delivered the following workshops and training sessions:
@@ -115,7 +129,8 @@ Thank you for visiting my profile, and I hope you find my projects insightful!
 
 ![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SobiaNoorAI&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SobiaNoorAI&layout=compact&theme=radical)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=SobiaNoorAI&layout=compact&theme=radical)
+
 
 ---
 

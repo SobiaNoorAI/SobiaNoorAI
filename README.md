@@ -115,7 +115,7 @@ Thank you for visiting my profile, and I hope you find my projects insightful!
 
 ![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SobiaNoorAI&show_icons=true&theme=radical)
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SobiaNoorAI&layout=compact&theme=radical)
 
 ---
 

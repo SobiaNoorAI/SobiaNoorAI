@@ -113,7 +113,8 @@ I enjoy connecting with fellow data enthusiasts, so feel free to reach out to me
 
 Thank you for visiting my profile, and I hope you find my projects insightful!
 
-![Your GitHub Stats](https://vercel.app)
+![Your GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=SobiaNoorAI&show_icons=true&theme=radical)
+
 
 
 ---

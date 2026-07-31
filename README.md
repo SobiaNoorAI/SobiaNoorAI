@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm  a **Software Engineer** specialized in data s
 ## 💼 My Projects
 Here are some of the key projects I’ve been working on during my learning journey in data science. Feel free to explore the code, read the documentation, and reach out if you have any questions!
 
-### 1. **E-commerce Customer Churn Analysi**
+### 1. **E-commerce Customer Churn Analysis**
    - **Description**: A customer segmentation project using K-Means clustering to group customers based on purchasing behavior.
    - **Technologies Used**: Python, Pandas, Scikit-Learn, Matplotlib, Power BI
    - **Key Steps**: Data Cleaning, Exploratory Data Analysis (EDA), Model Training, and Evaluation

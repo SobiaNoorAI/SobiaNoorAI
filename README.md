@@ -14,6 +14,20 @@ Welcome to my GitHub profile! I'm  a **Software Engineer** specialized in data s
 - 📫 **How to reach me**: sobianoor087@gmail.com | [Sobia Noor](https://www.linkedin.com/in/sobianoorai/)
 
 ---
+## International Hackathon Projects
+### Aegis Agent – Enterprise Multi-Agent Command Center
+Type: Full Stack | Tech: Next.js 14, React 18, TypeScript, FastAPI
+- **Description**: An enterprise-grade multi-agent workflow system for automated investment analysis and risk assessment. Orchestrates a specialized team of autonomous AI agents providing real-time transparency through a cinematic "War Room" user interface.
+
+System Architecture:
+
+- Frontend: Next.js 14, React 18, TypeScript, Framer Motion
+
+- Backend: FastAPI (Python 3.11+), WebSockets
+
+- AI Agent Layer: Planner, Analyst, Reviewer, Finalizer
+- 📂 [Link to Project Repository](https://github.com/SobiaNoorAI/Aegis-Agent)
+---
 
 ## 💼 My Projects
 Here are some of the key projects I’ve been working on during my learning journey in data science. Feel free to explore the code, read the documentation, and reach out if you have any questions!
@@ -40,20 +54,6 @@ Here are some of the key projects I’ve been working on during my learning jour
    - **Results**: Successfully extracted and analyzed over 1,000 reviews for sentiment trends.
    - 📂 [Link to Project Repository](https://github.com/yourusername/project-name)
 
----
-## Hackathon Projects
-### Aegis Agent – Enterprise Multi-Agent Command Center
-Type: Full Stack | Tech: Next.js 14, React 18, TypeScript, FastAPI
-- **Description**: An enterprise-grade multi-agent workflow system for automated investment analysis and risk assessment. Orchestrates a specialized team of autonomous AI agents providing real-time transparency through a cinematic "War Room" user interface.
-
-System Architecture:
-
-- Frontend: Next.js 14, React 18, TypeScript, Framer Motion
-
-- Backend: FastAPI (Python 3.11+), WebSockets
-
-- AI Agent Layer: Planner, Analyst, Reviewer, Finalizer
-- 📂 [Link to Project Repository](https://github.com/SobiaNoorAI/Aegis-Agent)
 ---
 ## 🎤 Workshops & Training
 

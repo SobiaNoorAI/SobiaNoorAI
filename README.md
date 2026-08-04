@@ -28,7 +28,29 @@ System Architecture:
 - AI Agent Layer: Planner, Analyst, Reviewer, Finalizer
 - 📂 [Link to Project Repository](https://github.com/SobiaNoorAI/Aegis-Agent)
 ---
+## 🎤 Workshops & Training
 
+I'm passionate about sharing knowledge and have delivered the following workshops and training sessions:
+
+| Workshop | Topic | Description |
+|----------|-------|-------------|
+| **HPC Malware Detection** | Hardware Performance Counters | Workshop on using HPCs for malware detection with Python & ML (95%+ accuracy) |
+| **DSA Training** | LeetCode | Technical sessions on Data Structures & Algorithms at iCodeGuru |
+| **Web Development Training** | Full-Stack Web | Technical sessions on HTML, CSS, and PHP at iCodeGuru |
+| **IELTS Preparation** | English Proficiency | Teaching IELTS to underprivileged students at iCodeGuru |
+
+### 📺 Featured Workshop
+
+🔬 **HPC Malware Detection Workshop**
+- Hardware Performance Counters for behavioral malware detection
+- Python + Google Colab implementation
+- 95%+ ML classification accuracy
+- Research preparation for PhD
+
+📂 [GitHub Repository](https://github.com/SobiaNoorAI/hpc-malware-detection-demo)
+📺 [YouTube Workshop](https://www.youtube.com/watch?v=_vUHhbt-oew)
+
+---
 ## 💼 My Projects
 Here are some of the key projects I’ve been working on during my learning journey in data science. Feel free to explore the code, read the documentation, and reach out if you have any questions!
 
@@ -55,29 +77,7 @@ Here are some of the key projects I’ve been working on during my learning jour
    - 📂 [Link to Project Repository](https://github.com/yourusername/project-name)
 
 ---
-## 🎤 Workshops & Training
 
-I'm passionate about sharing knowledge and have delivered the following workshops and training sessions:
-
-| Workshop | Topic | Description |
-|----------|-------|-------------|
-| **HPC Malware Detection** | Hardware Performance Counters | Workshop on using HPCs for malware detection with Python & ML (95%+ accuracy) |
-| **DSA Training** | LeetCode | Technical sessions on Data Structures & Algorithms at iCodeGuru |
-| **Web Development Training** | Full-Stack Web | Technical sessions on HTML, CSS, and PHP at iCodeGuru |
-| **IELTS Preparation** | English Proficiency | Teaching IELTS to underprivileged students at iCodeGuru |
-
-### 📺 Featured Workshop
-
-🔬 **HPC Malware Detection Workshop**
-- Hardware Performance Counters for behavioral malware detection
-- Python + Google Colab implementation
-- 95%+ ML classification accuracy
-- Research preparation for PhD
-
-📂 [GitHub Repository](https://github.com/SobiaNoorAI/hpc-malware-detection-demo)
-📺 [YouTube Workshop](https://www.youtube.com/watch?v=_vUHhbt-oew)
-
----
 ## 📊 Skills & Tools
 Here are the technologies and tools that I use most frequently. My expertise is constantly evolving as I explore new areas of data science and machine learning.
 
